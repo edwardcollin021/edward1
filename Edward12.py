@@ -13,7 +13,7 @@ try:
 except ImportError:
     os.system('pip2 install requests')
     os.system('pip2 install mechanize')
-    os.system('python2 jam.py')
+    os.system('python2 Edward12.py')
 
 #Browser Setting
 reload(sys)
